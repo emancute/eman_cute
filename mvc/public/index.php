@@ -1,1 +1,4 @@
-<h1>BUBUKA ANG BULAKLAK</h1>
+<?php
+
+require '../app/core/init.php';
+$app = new App();

@@ -1,1 +1,1 @@
-index page
+<h1>SIGE MAGAWAY KAYO</h1>

@@ -6,12 +6,7 @@
     <h2>List of Tasks</h2>
 
     <a href="<?= ROOT ?>/tasks/create" class="btn btn-primary">Add New Task</a>
-    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-  Launch demo modal
-</button>
   </div>
-
-
 
   <table class="table table-striped mt-3">
     <tr>

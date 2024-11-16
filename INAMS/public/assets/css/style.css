@@ -1,0 +1,134 @@
+
+/* ADMIN */
+.admin-title:hover
+{
+    color: white;
+}
+.login-button:hover
+{
+    background-color: darkgreen;
+    color: white;
+}
+.login-button
+{
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9; 
+}
+/* END ADMIN */
+
+/* STUDENT */
+.cstd
+{
+    background-color: #9DDE8B;
+}
+.studinfo
+{
+    color: white;
+    font-style: oblique;
+}
+.req-text
+{
+    color: white;
+    font-size: large;
+}
+.gender 
+{
+    color: white;
+    font-size: large;
+}
+.gender:hover 
+{
+    color: black;
+   
+}
+.acadinfo
+{
+    color: white;
+    font-style: oblique;
+}
+.send-button
+{
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+.send-button:hover
+{
+    background-color: #FFF67E;
+    color: black;
+}
+.cancel-button
+{
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+.cancel-button:hover
+{
+    background-color: #FA7070;
+    color: black;
+}
+/* END STUDENT */
+
+/* START NAV */
+
+.studskd:hover
+{
+    color: white;
+}
+
+
+/* END NAV */
+.container_bpc .heading
+{
+   
+    color: #fff;
+    text-align: left;
+    position: relative;
+    padding: 18px;
+    font-size: 100px;
+    font-style: oblique;
+    letter-spacing: 10px;
+}
+.caption
+{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.bpc_img
+{
+    position: relative;
+    opacity: 0.65;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+    width: 100%;
+    
+}
+.home
+{
+    color: darkgreen;
+    text-shadow: #000;
+    font-weight: 900;
+}
+.linkhome
+{
+    color: darkgreen;
+    font-weight: 700;
+}

@@ -5,6 +5,6 @@ define('PATH', 'C:/xampp/htdocs/BSIS3F_WEBA_24/list-of-tasks/app/views/');
 
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'tasks_db');
+define('DB_NAME', 'inams_database');
 define('DB_USER', 'root');
 define('DB_PASS', '');

@@ -1,0 +1,25 @@
+.header-container {
+    background-color: #004643;
+}
+.img-crop{
+    width:100%!important;
+    height: 20px;
+
+    object-fit: cover;
+    object-position:center!important;
+}
+.pub-menu{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: larger;
+    margin: 20px;
+    font-weight: bolder!important;
+}
+.pub-menu:hover{
+    text-decoration: underline;
+    color: #f9bc60!important;
+    transition: width 0.3s ease-in-out!important;
+}
+
+
+
